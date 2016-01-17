@@ -1,9 +1,36 @@
 /* Empty. Add your own CSS if you like */
 
-.m-r-md {
-    margin-right: 200px;
+.p-t-lg {
+    padding-top: 40px;
 }
 
-.m-l-md {
-    margin-left: 200px;
+.p-t-md {
+    margin-top: 20px;
+}
+
+.p-b-lg {
+    padding-bottom: 40px;
+}
+.p-b-md {
+    padding-bottom: 20px;
+}
+
+.login-logo {
+    height: 35%;
+    padding-top: 40px;
+}
+
+.login-inputs {
+    margin-bottom: 40px !important;
+    padding: 0px !important;
+    opacity: 0.8;
+}
+
+
+.login-background {
+    background-image: url("../img/login_background_2.jpeg")
+}
+
+.text-white {
+    color: #ffffff;
 }
